@@ -30,7 +30,7 @@ Me apasiona diseñar arquitecturas de datos sólidas, optimizar infraestructuras
 
 ### Educación y Proyección a Futuro
 * **Ingeniería de Sistemas (Fase Final):** Actualmente desarrollando mi trabajo en la implementación práctica de arquitecturas y pipelines de datos aplicados a la modernización industrial
-* **Meta Profesional:** Seguir creciendo técnicamente hacia roles de liderazgo arquitectónico y dirección tecnológica (CTO), manteniendo siempre un estándar de excelencia y ejecución limpia.
+* **Meta Profesional:** Seguir creciendo técnicamente hacia roles de liderazgo arquitectónico y dirección tecnológica (CTO), manteniendo siempre un estándar de excelencia y ejecución limpia. Asi como en la parte tecnica aprender estadistica avanzada para ML, sin dejar de lado la ciberseguridad ofreciendo asi soluciones contundentes a problemas del mundo real.
 
 ---
 
